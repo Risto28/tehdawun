@@ -1,0 +1,26 @@
+{
+  "name": "tehdawun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Risto28/tehdawun"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Risto28/tehdawun/issues"
+  },
+  "homepage": "https://github.com/Risto28/tehdawun#readme",
+  "dependencies": {
+    "@types/node": "^20.11.28",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
